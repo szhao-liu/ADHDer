@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+
+# MacOS
+.DS_Store
+
+# Credentials
+.env
+
+# archive
+archive/
+
