@@ -2,18 +2,6 @@
 
 How reddit users with ADHD talk about social media use and time management
 
-## Resources
-
-- Data source: [Reddit: ADHDer](https://www.reddit.com/r/ADHD/)
-- Reddit scraping tools
-  - [PRAW](https://praw.readthedocs.io/en/stable/index.html)
-  - [Arctic Shift](https://github.com/ArthurHeitmann/arctic_shift)
-
-Additional resources:
-- [Python Reddit API Wrapper (PRAW) Documentation](https://praw.readthedocs.io/en/stable/)
-- [Reddit API Documentation](https://www.reddit.com/dev/api)
-- [How to Get Reddit API Key: Finally, a Guide That Works](https://data365.co/blog/how-to-get-reddit-api-key)
-
 ## Set up & run
 
 1. API set up
@@ -76,3 +64,15 @@ poetry run python -m src.scrape_all_comments
 
 3. Analysis
    - xxx
+
+## Resources
+
+- Data source: [Reddit: ADHDer](https://www.reddit.com/r/ADHD/)
+- Reddit scraping tools
+  - [PRAW](https://praw.readthedocs.io/en/stable/index.html)
+  - [Arctic Shift](https://github.com/ArthurHeitmann/arctic_shift)
+
+Additional resources:
+- [Python Reddit API Wrapper (PRAW) Documentation](https://praw.readthedocs.io/en/stable/)
+- [Reddit API Documentation](https://www.reddit.com/dev/api)
+- [How to Get Reddit API Key: Finally, a Guide That Works](https://data365.co/blog/how-to-get-reddit-api-key)
