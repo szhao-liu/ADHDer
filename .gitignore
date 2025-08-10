@@ -1,5 +1,7 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[codz]
+*$py.class
 
 # MacOS
 .DS_Store
@@ -7,6 +9,5 @@ __pycache__/
 # Credentials
 .env
 
-# archive
+# Archive files
 archive/
-
