@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# MacOS
+.DS_Store
+
+# Credentials
+.env
+
+# Archive files
+archive/
