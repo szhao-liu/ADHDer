@@ -11,3 +11,7 @@ __pycache__/
 
 # Archive files
 archive/
+
+# nltk data
+nltk_data/
+
