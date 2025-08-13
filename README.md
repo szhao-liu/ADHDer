@@ -54,7 +54,7 @@ poetry run python -m src.scrape_all_comments
 
 1. Data Collection
    - Use the scraping tools to collect data from r/ADHD.
-   - PRAW -> Top 1000 posts' IDs -> select 100 posts -> all comments from the 100 posts
+   - PRAW -> Top 1000 posts' IDs -> top-level comments from posts
    - Store the raw data in csv files.
 
 2. Data Processing
